@@ -22,7 +22,7 @@ Build the package:
 ## Usage
 Before using rosrun make sure the python file is converted into an executable
 ```Shell
-  rosrun img-batch-creator img_saver.py
+  rosrun img_saver img_saver.py
 ```
 
 Make sure to replace the topic name with the actual ROS topic from which you want to subscribe to the images.
